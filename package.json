@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tsx": "^4.23.13"
+  },
+
+  "scripts": {
+    "dev": "tsx watch main.ts"
+  }
+}
